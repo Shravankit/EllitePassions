@@ -29,7 +29,7 @@ const Products = () => {
 
     useEffect(() => {handleAllProducts()}, [])
   return (
-    <Layout>
+    <Layout title={'Ellite Passions Products'}>
         <div className='row'>
             <div className='col-md-3'>
                 <AdminMenu />

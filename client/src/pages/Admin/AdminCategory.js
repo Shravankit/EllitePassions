@@ -100,7 +100,7 @@ const AdminCategory = () => {
     }
 
   return (
-    <Layout>
+    <Layout title={'Ellite PAssions Categories'}>
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-3'>

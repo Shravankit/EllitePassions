@@ -28,7 +28,7 @@ const Header = () => {
       <span className="navbar-toggler-icon" />
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <NavLink className="navbar-brand" to='/'><BiSolidShoppingBagAlt />  Ellite Passios </NavLink>
+      <NavLink className="navbar-brand" to='/'><BiSolidShoppingBagAlt />  Ellite Passions </NavLink>
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
         <li className="nav-item">
           <NavLink className="nav-link" aria-current="page" to='/'>Home</NavLink>

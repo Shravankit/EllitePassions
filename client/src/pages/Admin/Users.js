@@ -23,7 +23,7 @@ const Users = () => {
 
     useEffect(() => {handleUsers()}, []);
   return (
-    <Layout>
+    <Layout title={'Ellite Passions Users'}>
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-3'>

@@ -34,7 +34,7 @@ const ForgotPassword = () => {
     }
 
   return (
-    <Layout>
+    <Layout title={'Ellite Passions Forgot Password'}>
         <div className='form-container'>
         <form onSubmit={handleSubmit} >
           <div className="mb-3">

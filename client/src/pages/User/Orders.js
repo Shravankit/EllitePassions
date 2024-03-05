@@ -4,7 +4,7 @@ import UserMenu from '../../components/Layout/UserMenu';
 
 const Orders = () => {
   return (
-    <Layout>
+    <Layout title={'Ellite PAssions Users Orders'}>
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-3'>

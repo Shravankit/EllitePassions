@@ -64,7 +64,7 @@ const CreateProduct = () => {
 
 
   return (
-    <Layout>
+    <Layout title={'Ellite passions create product'}>
          <div className='container-fluid'>
           <div className='row'>
             <div className='col-md-3'>

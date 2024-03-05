@@ -5,14 +5,14 @@ import UserMenu from '../../components/Layout/UserMenu';
 
 const Profile = () => {
   return (
-    <Layout>
+    <Layout title={'Ellite Passions Users Profile'}>
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-3'>
                     <UserMenu />
                 </div>
                 <div className='col-md-9'>
-                    Produts
+                    Profile
                 </div>
             </div>
         </div>

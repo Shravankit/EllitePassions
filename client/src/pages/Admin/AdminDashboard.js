@@ -8,7 +8,7 @@ const AdminDashboard = () => {
     const [auth] = useAuth();
 
   return (
-    <Layout>
+    <Layout title={'Ellite passions Admins Dashboard'}>
         <div className='container-fluid'>
             <div className='row'>
                 <div className='col-md-3'>
